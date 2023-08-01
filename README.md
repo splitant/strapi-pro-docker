@@ -4,14 +4,17 @@
 
 The goal is to set up fastly a local [Strapi](https://strapi.io/) project with docker environment for professional uses.
 
+### Requirements
+
+* [Yarn](https://yarnpkg.com/getting-started/install)
+* [NVM](https://github.com/nvm-sh/nvm) installation is strongly recommanded if you want to make front integration.
+
 ### Built With
 
 * [Official Node Docker Image](https://hub.docker.com/_/node)
 * [Official MySQL Docker Image](https://hub.docker.com/_/mysql)
 * [Official adminer Docker Image](https://hub.docker.com/_/adminer)
 * [Official traefik Docker Image](https://hub.docker.com/_/traefik)
-
-[NVM](https://github.com/nvm-sh/nvm) installation is strongly recommanded if you want to make front integration.
 
 ## Getting Started
 
